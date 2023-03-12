@@ -19,4 +19,15 @@
   4. public/index.html
     - シンプルにする
 
+## 2. ページルーティング
+- 追加パッケージ
+  - react-router-dom
+- 追加ソース
+  1. src/Ranking.js
+- 修正ソース
+  1. src/index.js
+    - BrowserRouter 追加
+  2. src/App.js
+    - Link, Routes, Route 追加
+  
 
